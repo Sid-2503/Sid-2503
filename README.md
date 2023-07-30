@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
 <h3 align="center">A Passionate Cloud and Devops learner from India.</h3>
-![dev](https://github.com/Sid-2503/Sid-2503/assets/89977643/471cbfb7-f2dc-4381-aadf-a1a13dfbba8b)
 
 
 
