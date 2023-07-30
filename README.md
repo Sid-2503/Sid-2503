@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
 <h3 align="center">A Passionate Cloud and Devops learner from India.</h3>
-https://media.istockphoto.com/id/1398516315/vector/devsecops-concept-integration-of-security-testing-throughout-the-development-and-operations.jpg?s=612x612&w=0&k=20&c=JV-bF57yE-lCmEWVBEgchwDJ_ciSO_VKpBxwx0i94z4=
+
 
 - 🌱 I’m currently learning **Cloud, Devops and Open source**
 
